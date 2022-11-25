@@ -1,0 +1,46 @@
+baseURL: 'http://example.org/'
+languageCode: en-us
+title: RaR
+theme: PaperMod
+
+params:
+    profileMode:
+        enabled: true
+        title: "Hey ich bin Aaron &#128075;"
+        subtitle: "Personal blog, maybe portfolio laaaater"
+        imageUrl: "/Blog_Cover.png" # optional
+        imageTitle: "Beautiful Blog Cover" # optional
+        imageWidth: 240 # custom size
+        imageHeight: 240 # custom size
+        buttons:
+            -   name: Archive
+                url: "/archive"
+            -   name: Github
+                url: "https://github.com/AaronLeontaris"
+
+    socialIcons: # optional
+        -   name: "twitter"
+            url: "https://twitter.com/RonaldTrettmann"
+        -   name: "github"
+            url: "https://github.com/AaronLeontaris"
+
+menu:
+  main:
+    - identifier: tags
+      name: by tag
+      url: /tags/
+      weight: 10
+    - identifier: languages
+      name: by language
+      url: /languages/
+      weight: 20
+
+taxonomies:
+  tag: tags
+  language: languages
+
+# outputs:
+#    home:
+#        - HTML
+#        - RSS
+#        - JSON # is necessary
