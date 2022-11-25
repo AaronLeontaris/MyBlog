@@ -17,7 +17,7 @@ Und dass alles eine kurze Busfahrt von Marseilles vororten entfernt die eine kul
 Aber gut, außerdem hat sie eine sehr gute Universität unteranderem mit dem [Science Po Institut](https://de.wikipedia.org/wiki/Institut_d%E2%80%99%C3%A9tudes_politiques_d%E2%80%99Aix-en-Provence) an welchem die Konferenz stattfand.
   
 
-![Aix Location](../../static/uploads/aixLocation.jpg)
+![Aix Location](/uploads/aixLocation.jpg)
 
 # Dafuq is MUN?
 
