@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on RaR</title>
+    <link>https://rolfaufreisen.netlify.app/tags/</link>
+    <description>Recent content in Tags on RaR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Nov 2022 13:02:50 +0100</lastBuildDate><atom:link href="https://rolfaufreisen.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erasmus</title>
+      <link>https://rolfaufreisen.netlify.app/tags/erasmus/</link>
+      <pubDate>Sat, 26 Nov 2022 13:02:50 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/tags/erasmus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recap</title>
+      <link>https://rolfaufreisen.netlify.app/tags/recap/</link>
+      <pubDate>Sat, 26 Nov 2022 13:02:50 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/tags/recap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dev</title>
+      <link>https://rolfaufreisen.netlify.app/tags/dev/</link>
+      <pubDate>Fri, 25 Nov 2022 15:15:20 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/tags/dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>trip</title>
+      <link>https://rolfaufreisen.netlify.app/tags/trip/</link>
+      <pubDate>Fri, 25 Nov 2022 13:26:00 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/tags/trip/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on RaR</title>
+    <link>https://rolfaufreisen.netlify.app/posts/</link>
+    <description>Recent content in Posts on RaR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Nov 2022 13:02:50 +0100</lastBuildDate><atom:link href="https://rolfaufreisen.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arrival</title>
+      <link>https://rolfaufreisen.netlify.app/posts/arrival/</link>
+      <pubDate>Sat, 26 Nov 2022 13:02:50 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/posts/arrival/</guid>
+      <description>The day before Before starting my journey to Pisa I had a last evening in Göttingen. I had the honor to spend the last hours with some of the nicest and most handsome people in the world.
+#slide-window {position: relative;width: 500px;height: 300px;overflow: hidden;top: 0px;left: 0px;}#slides-list {width: 500px;height: 300px;position: absolute;margin: 0px;padding: 0px;-webkit-transform: translate3d(0px, 0px, 0px);transform: translate3d(0px, 0px, 0px);transition: all 0.</description>
+    </item>
+    
+    <item>
+      <title>the password thing</title>
+      <link>https://rolfaufreisen.netlify.app/posts/password/</link>
+      <pubDate>Fri, 25 Nov 2022 15:15:20 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/posts/password/</guid>
+      <description>Why i wanted password protection? I want to share personal stuff also with pictures therefore i want to limit who can access this site.
+The implementation For now at least the implemtation is kinda poor. You can just bypass it by disabeling JavaScript in your browser.
+Then having a look in the SourceCode and setting the password cookie by yourselfe. (credit to TimstOrm)
+The problem is that no client side aithentication is rly secure but because of the static nature of this site Authetication via OAuth (which would be the standard way) is not easy to implement.</description>
+    </item>
+    
+    <item>
+      <title>Why is this site so fast?!</title>
+      <link>https://rolfaufreisen.netlify.app/posts/fastblog/</link>
+      <pubDate>Fri, 25 Nov 2022 14:42:56 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/posts/fastblog/</guid>
+      <description>Hugo This site uses Hugo a static site generation framework written in Go.
+Hugo has several charachteristics that makes it somewhat the perfect framewwork to build modern webapps that do not need a database connection.
+It has very fast build times, a vast collection of templates to choose from and extensive possibilites for extensions.
+And all of that with basic knowledge of HTML and Markdown.
+Furthermore the documentation is very good and because of the high popluarity of this framework pared with it beeing open source we can expect a longevity.</description>
+    </item>
+    
+    <item>
+      <title>AIXMUN</title>
+      <link>https://rolfaufreisen.netlify.app/posts/aixmun/</link>
+      <pubDate>Fri, 25 Nov 2022 13:26:00 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/posts/aixmun/</guid>
+      <description>Dafuq is AIX? Aix-en-Provence kleine, reiche, weiße und wunderschöne Stadt in der Provence, 20 Minuten von Marseilles entfernt.
+For real ich habe innerhalb der ~38 Stunden die ich dort war niemadnen mit dunklerer haut als 2 typen geshen die wirkten als hätten sie in Algerien die unabhängigkeit von der Grand de Nation zu verhindern.
+Und dass alles eine kurze Busfahrt von Marseilles vororten entfernt die eine kulturelle Vielfalt aufweist wie sonst keine Stadt in Frankreich.</description>
+    </item>
+    
+  </channel>
+</rss>

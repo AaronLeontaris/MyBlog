@@ -23,6 +23,8 @@ params:
             url: "https://twitter.com/RonaldTrettmann"
         -   name: "github"
             url: "https://github.com/AaronLeontaris"
+    
+    hugoEncryptorLanguage : "en-us"   
 
 menu:
   main:

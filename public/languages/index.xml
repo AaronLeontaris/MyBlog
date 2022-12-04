@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Languages on RaR</title>
+    <link>https://rolfaufreisen.netlify.app/languages/</link>
+    <description>Recent content in Languages on RaR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Nov 2022 13:02:50 +0100</lastBuildDate><atom:link href="https://rolfaufreisen.netlify.app/languages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>English</title>
+      <link>https://rolfaufreisen.netlify.app/languages/english/</link>
+      <pubDate>Sat, 26 Nov 2022 13:02:50 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/languages/english/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>German</title>
+      <link>https://rolfaufreisen.netlify.app/languages/german/</link>
+      <pubDate>Fri, 25 Nov 2022 13:26:00 +0100</pubDate>
+      
+      <guid>https://rolfaufreisen.netlify.app/languages/german/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,49 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+
+<script type="text/javascript">
+
+  function _click_handler(e) { 
+    let input = document.querySelector(".hugo-encryptor-input").value;
+    let pw = {{ .Get "pw"}};
+    console.log("input:" + input);
+    console.log("PW: " + pw);
+    if (pw === document.querySelector(".hugo-encryptor-input").value) {
+      console.log("weThere");
+      let b = document.getElementById("encryptedArea");
+      b.style.display='block';
+    }
+    else{
+    }
+  }
+</script>
+
+<div class="hugo-encryptor-container">
+  <div class="hugo-encryptor-prompt">
+    {{ if eq .Site.Params.hugoEncryptorLanguage "en-us" }}
+      <p>Part of this article is encrypted with password:</p>
+    {{ else }}
+      <p>文章的部分内容被密码保护：</p>
+    {{ end }}
+  </div>
+  <div class="hugo-encryptor-form">
+    <input
+      class="hugo-encryptor-input"
+      placeholder='{{ if eq .Site.Params.hugoEncryptorLanguage "en-us" }}Please input the password{{ else }}请输入密码{{ end }}'
+    />
+    <input
+      class="hugo-encryptor-button"
+      type="button"
+      value='{{ if eq .Site.Params.hugoEncryptorLanguage "en-us" }}Click to verify{{ else }}点击验证{{ end }}'
+      onclick="_click_handler(this)"
+    />
+  </div>
+  <div
+    class="hugo-encryptor-cipher-text" 
+    id="encryptedArea"
+    data-password="{{ .Get 0 }}"
+    style="display: none;"
+  >
+    <span style="display: none;">--- DON'T MODIFY THIS LINE ---</span>
+    {{ .Inner }}
+  </div>
+</div>
