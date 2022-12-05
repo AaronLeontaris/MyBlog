@@ -1,7 +1,7 @@
 ---
 title: "Arrival"
 date: 2022-11-26T13:02:50+01:00
-draft: false
+draft: true
 tags:
 - Erasmus
 - recap
@@ -13,6 +13,7 @@ languages:
 
 Before starting my journey to Pisa I had a last evening in Göttingen. I had the honor to spend the last hours with some of the nicest and most handsome people in the world. 
 
+{{% hugo-encryptor pw="FnF" %}}
 
 {{< gallery-slider dir="/uploads/vinetasting/" >}}
 
@@ -47,12 +48,12 @@ I was in so many reginoal but beautiful train terminals.
 ![Train Terminal in the middle of nowhere](/uploads/itlaianlandsite.jpeg)
 This was kinda beautiful and i met nice people.  
 
-{{% hugo-encryptor pw="PASSWORD" %}}
+
 ## This is the first Picture i took in Pisa
 
-{{% /hugo-encryptor %}}
+
 
 ![Ronald auf Reise](/uploads/arrivedInPisa.jpeg)
 
 
-
+{{% /hugo-encryptor %}}
