@@ -1,6 +1,6 @@
 ---
 title: "Why is this site so fast?!"
-date: 2022-11-25T14:42:56+01:00
+date: 2022-12-27T14:42:56+01:00
 draft: false
 tags:
 - dev

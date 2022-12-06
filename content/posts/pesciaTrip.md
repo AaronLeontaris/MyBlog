@@ -16,6 +16,12 @@ My friends from Göttingen where there. <3
 
 {{< video src="/uploads/videos/BellaItalia1.mp4" type="video/mp4" preload="auto" >}}
 
+
+### The House location  
+
+{{< load-leaflet-local >}}
+{{< leaflet-simple mapHeight="300px" mapWidth="600px" mapLon="43,9194418" mapLat="10,7015947" zoom="13">}}
+
 ## Part 2
 
 {{< video src="/uploads/videos/BellaItalia2.mp4" type="video/mp4" preload="auto" >}}

@@ -1,6 +1,6 @@
 ---
 title: "AIXMUN"
-date: 2022-11-25T13:26:00+01:00
+date: 2022-11-29T16:29:01+01:00
 draft: false
 tags:
 - trip

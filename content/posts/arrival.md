@@ -1,7 +1,7 @@
 ---
 title: "Arrival"
 date: 2022-11-26T13:02:50+01:00
-draft: true
+draft: false
 tags:
 - Erasmus
 - recap
