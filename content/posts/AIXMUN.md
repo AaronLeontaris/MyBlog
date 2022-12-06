@@ -41,3 +41,6 @@ Dort leben auch dauerhaft Menschen (wundervolle Leute, super herzlich) die leide
 Mein Highlight:  
   
 {{< video src="/uploads/videos/toiletteAix.mp4" type="video/mp4" preload="auto" >}}
+
+{{< load-leaflet-local >}}
+{{< leaflet-simple mapHeight="300px" mapWidth="400px" mapLon="5.45" mapLat="43.53"  markerLon="5.4463855" markerLat=" 43.5314234">}}

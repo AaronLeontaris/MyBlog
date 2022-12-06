@@ -8,4 +8,4 @@ draft: false
 ##  Map
 
 {{< load-leaflet-local >}}
-{{< leaflet-simple mapHeight="300px" mapWidth="600px" mapLon="43,9194418" mapLat="10,7015947" zoom="13">}}
+{{< leaflet-simple mapHeight="300px" mapWidth="600px" mapLon="10.7112529" mapLat="43.9176342" zoom="13" markerLon="10.7112529" markerLat="43.9176342">}}

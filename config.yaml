@@ -4,6 +4,9 @@ title: RaR
 theme: PaperMod
 
 params:
+    ShowCodeCopyButtons: true
+    ShowShareButtons: true
+    ShowReadingTime: true 
     defaultTheme: light
     profileMode:
         enabled: true
