@@ -4,6 +4,7 @@ title: RaR
 theme: PaperMod
 
 params:
+    label.icon: "uploads/headerPalm.png"
     ShowCodeCopyButtons: true
     ShowShareButtons: true
     ShowReadingTime: true 
