@@ -14,11 +14,11 @@ I want to share personal stuff also with pictures therefore i want to limit who 
 
 # The implementation
 
-For now at least the implemtation is kinda poor. You can just bypass it by disabeling JavaScript in your browser.  
-Then having a look in the SourceCode and setting the password cookie by yourselfe. (credit to TimstOrm)  
-The problem is that no client side aithentication is rly secure but because of the static nature of this site Authetication via OAuth (which would be the standard way) is not easy to implement.  
-The securtity guru suggested to hash the password in the SourceCode  or to use the servers Pwd Auth capabilities.  
-We´ll see in the coming weeks.  
+For now at least the implementation is kinda poor. You can just bypass it by disabling JavaScript in your browser.  
+Then having a look in the SourceCode and setting the password cookie by yourself. (credit to TimstOrm)  
+The problem is that no client side authentication is rly secure but because of the static nature of this site Authentication via OAuth (which would be the standard way) is not easy to implement.  
+The security guru suggested to hash the password in the SourceCode  or to use the servers Pwd Auth capabilities.  
+We'll see in the coming weeks.  
 Here the bonobo implementation: xD
 
 
